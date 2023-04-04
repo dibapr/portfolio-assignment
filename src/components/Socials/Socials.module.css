@@ -1,0 +1,8 @@
+.wrapper {
+  display: flex;
+  gap: 0.5em;
+  margin-top: 0.5em;
+}
+
+.wrapper > Link {
+}
