@@ -1,5 +1,6 @@
 # portfolio-assignment
 Fake portfolio. This is my assignment for Studi Independen from Hacktiv8
+Demo link: https://dibapr.github.io/portfolio-assignment/
 
 ### Tech used:
 - React.js
